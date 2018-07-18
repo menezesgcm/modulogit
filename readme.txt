@@ -1,3 +1,1 @@
-Meu primeiro projeto do Git
-
-nova atualização 
+Agora sim este readme está sendo alterado para o sistema do git
